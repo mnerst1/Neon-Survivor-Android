@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Neon Survivor</string>
+    <string name="day008">008-КҮН / АРКАДАЛЫҚ АМАН ҚАЛУ</string>
+    <string name="tagline">Бір арена. Толассыз шабуыл. Таңдау өз қолыңда.</string>
+    <string name="play">Аренаға кіру</string><string name="achievements">Жетістіктер</string><string name="settings">Баптаулар</string>
+    <string name="choose_mode">Режимді таңда</string>
+    <string name="mode_survival">Аман қалу</string><string name="mode_survival_desc">Шексіз толқындар · қалыпты қарқын</string>
+    <string name="mode_blitz">Блиц</string><string name="mode_blitz_desc">90 секунд · жылдам толқындар · қос ұпай</string>
+    <string name="mode_boss_rush">Басты жаулар</string><string name="mode_boss_rush_desc">Әр екінші толқында басты жау · қос ұпай</string>
+    <string name="statistics">Статистика</string><string name="stats_intro">Барлық уақыттағы нәтижелерің.</string>
+    <string name="stat_runs">Аяқталған ойындар</string><string name="stat_kills">Жеңілген жаулар</string>
+    <string name="stat_bosses">Жеңілген басты жаулар</string><string name="stat_minutes">Аман қалған минуттар</string>
+    <string name="mode_record">Рекорд %1$d · үздік толқын %2$d</string>
+    <string name="high_score">РЕКОРД  %1$d</string><string name="best_wave">ҮЗДІК ТОЛҚЫН  %1$d</string>
+    <string name="menu_hint">Қозғалу үшін экранды сүйре. Қару өзі атады.</string>
+    <string name="hud_wave">ТОЛҚЫН %1$d</string><string name="hud_score">ҰПАЙ %1$d</string><string name="hud_level">ДЕҢГЕЙ %1$d</string>
+    <string name="move_hint">СҮЙРЕП ҚОЗҒАЛ</string><string name="pulse">ИМПУЛЬС</string><string name="wave_banner">ТОЛҚЫН %1$d</string>
+    <string name="stay_moving">ҚОЗҒАЛЫСТЫ ТОҚТАТПА</string><string name="boss_incoming">БАСТЫ ЖАУ КЕЛЕДІ</string><string name="boss_name">КҮЗЕТШІ</string>
+    <string name="choose_upgrade">ДЕҢГЕЙ ӨСТІ · БІРЕУІН ТАҢДА</string><string name="reroll">Ауыстыру (%1$d)</string>
+    <string name="up_damage">Импульс күшейткіші</string><string name="desc_damage">Оқ қуаты +24%</string>
+    <string name="up_rate">Жеделдету</string><string name="desc_rate">Ату жылдамдығы +18%</string>
+    <string name="up_speed">Жылдам қозғалыс</string><string name="desc_speed">Қозғалыс жылдамдығы +17%</string>
+    <string name="up_hp">Берік өзек</string><string name="desc_hp">Ең жоғары HP +25 және 25 ем</string>
+    <string name="up_spread">Призма оғы</string><string name="desc_spread">Екі қиғаш оқ қосылады</string>
+    <string name="up_orbit">Орбиталық жүз</string><string name="desc_orbit">Айналатын шабуыл дроны</string>
+    <string name="up_rail">Рельстік найза</string><string name="desc_rail">Жауды тесіп өтетін ауыр оқ</string>
+    <string name="up_heal">Қалпына келтіру</string><string name="desc_heal">45 HP қалпына келтіреді</string>
+    <string name="paused">КІДІРІС</string><string name="pause_message">Тыныс ал. Арена күтіп тұр.</string>
+    <string name="resume">Жалғастыру</string><string name="restart">Қайта бастау</string><string name="main_menu">Мәзір</string>
+    <string name="game_over">БАЙЛАНЫС ҮЗІЛДІ</string><string name="final_score">Ұпай: %1$d\nТолқын: %2$d\nРекорд: %3$d</string><string name="run_complete">БЛИЦ АЯҚТАЛДЫ</string>
+    <string name="achievement_intro">Барлық ойындарда сақталатын жетістіктер.</string>
+    <string name="ach_first">Алғашқы жеңіс</string><string name="ach_first_desc">Бірінші жауды жең.</string>
+    <string name="ach_centurion">Жүздік</string><string name="ach_centurion_desc">Бір ойында 100 жауды жең.</string>
+    <string name="ach_boss">Күзетші жеңілді</string><string name="ach_boss_desc">Бесінші толқынның басты жауын жең.</string>
+    <string name="ach_survivor">Үш минут</string><string name="ach_survivor_desc">Үш минут аман қал.</string>
+    <string name="ach_level">Оныншы деңгей</string><string name="ach_level_desc">Бір ойында 10-деңгейге жет.</string>
+    <string name="ach_arsenal">Толық арсенал</string><string name="ach_arsenal_desc">Призма, орбита және рельстік қаруды аш.</string>
+    <string name="settings_intro">Аренаны өзіңе ыңғайла.</string><string name="sound">Дыбыс</string>
+    <string name="vibration">Діріл</string><string name="language">Тіл</string><string name="back">Артқа</string>
+</resources>

@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Neon Survivor</string>
+    <string name="day008">ДЕНЬ 008 / АРКАДНОЕ ВЫЖИВАНИЕ</string>
+    <string name="tagline">Одна арена. Бесконечный натиск. Твоя сборка — твои правила.</string>
+    <string name="play">Войти на арену</string><string name="achievements">Достижения</string><string name="settings">Настройки</string>
+    <string name="choose_mode">Выбери режим</string>
+    <string name="mode_survival">Выживание</string><string name="mode_survival_desc">Бесконечные волны · обычный темп</string>
+    <string name="mode_blitz">Блиц</string><string name="mode_blitz_desc">90 секунд · быстрые волны · двойные очки</string>
+    <string name="mode_boss_rush">Охота на боссов</string><string name="mode_boss_rush_desc">Босс через волну · двойные очки</string>
+    <string name="statistics">Статистика</string><string name="stats_intro">Твои результаты за всё время.</string>
+    <string name="stat_runs">Завершённых забегов</string><string name="stat_kills">Побеждено врагов</string>
+    <string name="stat_bosses">Побеждено боссов</string><string name="stat_minutes">Минут выживания</string>
+    <string name="mode_record">Рекорд %1$d · лучшая волна %2$d</string>
+    <string name="high_score">РЕКОРД  %1$d</string><string name="best_wave">ЛУЧШАЯ ВОЛНА  %1$d</string>
+    <string name="menu_hint">Веди пальцем для движения. Оружие стреляет само.</string>
+    <string name="hud_wave">ВОЛНА %1$d</string><string name="hud_score">ОЧКИ %1$d</string><string name="hud_level">УР. %1$d</string>
+    <string name="move_hint">ВЕДИ ПАЛЬЦЕМ</string><string name="pulse">ИМПУЛЬС</string><string name="wave_banner">ВОЛНА %1$d</string>
+    <string name="stay_moving">НЕ ОСТАНАВЛИВАЙСЯ</string><string name="boss_incoming">ПРИБЛИЖАЕТСЯ БОСС</string><string name="boss_name">СТРАЖ</string>
+    <string name="choose_upgrade">НОВЫЙ УРОВЕНЬ · ВЫБЕРИ ОДНО</string><string name="reroll">Заменить (%1$d)</string>
+    <string name="up_damage">Усилитель импульса</string><string name="desc_damage">+24% к урону снарядов</string>
+    <string name="up_rate">Разгон</string><string name="desc_rate">Стрельба на 18% быстрее</string>
+    <string name="up_speed">Форсаж</string><string name="desc_speed">+17% к скорости движения</string>
+    <string name="up_hp">Укреплённое ядро</string><string name="desc_hp">+25 макс. HP и лечение на 25</string>
+    <string name="up_spread">Призматический залп</string><string name="desc_spread">Ещё два снаряда под углом</string>
+    <string name="up_orbit">Орбитальный клинок</string><string name="desc_orbit">Вращающийся боевой дрон</string>
+    <string name="up_rail">Рельсовое копьё</string><string name="desc_rail">Мощный пробивающий выстрел</string>
+    <string name="up_heal">Ремонтный импульс</string><string name="desc_heal">Восстановить 45 HP</string>
+    <string name="paused">ПАУЗА</string><string name="pause_message">Передохни. Арена подождёт.</string>
+    <string name="resume">Продолжить</string><string name="restart">Заново</string><string name="main_menu">Меню</string>
+    <string name="game_over">СИГНАЛ ПОТЕРЯН</string><string name="final_score">Очки: %1$d\nВолна: %2$d\nРекорд: %3$d</string><string name="run_complete">БЛИЦ ЗАВЕРШЁН</string>
+    <string name="achievement_intro">Постоянные достижения за все забеги.</string>
+    <string name="ach_first">Первая кровь</string><string name="ach_first_desc">Победи первого врага.</string>
+    <string name="ach_centurion">Центурион</string><string name="ach_centurion_desc">Победи 100 врагов за забег.</string>
+    <string name="ach_boss">Страж повержен</string><string name="ach_boss_desc">Победи босса пятой волны.</string>
+    <string name="ach_survivor">Три минуты</string><string name="ach_survivor_desc">Продержись три минуты.</string>
+    <string name="ach_level">Сила десяти</string><string name="ach_level_desc">Достигни 10 уровня за забег.</string>
+    <string name="ach_arsenal">Полный арсенал</string><string name="ach_arsenal_desc">Открой призму, орбиту и рельсовое оружие.</string>
+    <string name="settings_intro">Настрой арену под себя.</string><string name="sound">Звук</string>
+    <string name="vibration">Вибрация</string><string name="language">Язык</string><string name="back">Назад</string>
+</resources>

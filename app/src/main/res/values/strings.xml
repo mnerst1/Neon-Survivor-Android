@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Neon Survivor</string>
+    <string name="day008">DAY 008 / ARCADE SURVIVAL</string>
+    <string name="tagline">One arena. Endless pressure. Your build, your rules.</string>
+    <string name="play">Enter the arena</string>
+    <string name="choose_mode">Choose a mode</string>
+    <string name="mode_survival">Survival</string><string name="mode_survival_desc">Endless waves · classic pace</string>
+    <string name="mode_blitz">Blitz</string><string name="mode_blitz_desc">90 seconds · faster waves · double score</string>
+    <string name="mode_boss_rush">Boss Rush</string><string name="mode_boss_rush_desc">A boss every other wave · double score</string>
+    <string name="statistics">Statistics</string><string name="stats_intro">Your lifetime arena record.</string>
+    <string name="stat_runs">Completed runs</string><string name="stat_kills">Enemies defeated</string>
+    <string name="stat_bosses">Bosses defeated</string><string name="stat_minutes">Minutes survived</string>
+    <string name="mode_record">Best score %1$d · best wave %2$d</string>
+    <string name="achievements">Achievements</string>
+    <string name="settings">Settings</string>
+    <string name="high_score">HIGH SCORE  %1$d</string>
+    <string name="best_wave">BEST WAVE  %1$d</string>
+    <string name="menu_hint">Drag anywhere to move. Weapons fire automatically.</string>
+    <string name="hud_wave">WAVE %1$d</string>
+    <string name="hud_score">SCORE %1$d</string>
+    <string name="hud_level">LVL %1$d</string>
+    <string name="move_hint">DRAG TO MOVE</string>
+    <string name="pulse">PULSE</string>
+    <string name="wave_banner">WAVE %1$d</string>
+    <string name="stay_moving">STAY MOVING</string>
+    <string name="boss_incoming">BOSS INCOMING</string>
+    <string name="boss_name">THE WARDEN</string>
+    <string name="choose_upgrade">LEVEL UP · CHOOSE ONE</string>
+    <string name="reroll">Reroll (%1$d)</string>
+    <string name="up_damage">Pulse amplifier</string><string name="desc_damage">+24% projectile damage</string>
+    <string name="up_rate">Overclock</string><string name="desc_rate">Shoot 18% faster</string>
+    <string name="up_speed">Afterburner</string><string name="desc_speed">+17% movement speed</string>
+    <string name="up_hp">Reinforced core</string><string name="desc_hp">+25 max HP and heal 25</string>
+    <string name="up_spread">Prism shot</string><string name="desc_spread">Add two angled projectiles</string>
+    <string name="up_orbit">Orbit blade</string><string name="desc_orbit">Add a rotating damage drone</string>
+    <string name="up_rail">Rail lance</string><string name="desc_rail">Add a piercing heavy shot</string>
+    <string name="up_heal">Repair pulse</string><string name="desc_heal">Restore 45 HP</string>
+    <string name="paused">PAUSED</string><string name="pause_message">Take a breath. The arena is waiting.</string>
+    <string name="resume">Resume</string><string name="restart">Restart</string><string name="main_menu">Menu</string>
+    <string name="game_over">SIGNAL LOST</string><string name="final_score">Score: %1$d\nWave reached: %2$d\nHigh score: %3$d</string>
+    <string name="run_complete">BLITZ COMPLETE</string>
+    <string name="achievement_intro">Permanent milestones from your runs.</string>
+    <string name="ach_first">First blood</string><string name="ach_first_desc">Defeat your first enemy.</string>
+    <string name="ach_centurion">Centurion</string><string name="ach_centurion_desc">Defeat 100 enemies in a run.</string>
+    <string name="ach_boss">Warden down</string><string name="ach_boss_desc">Defeat the wave five boss.</string>
+    <string name="ach_survivor">Three minute club</string><string name="ach_survivor_desc">Survive for three minutes.</string>
+    <string name="ach_level">Power ten</string><string name="ach_level_desc">Reach level 10 in a run.</string>
+    <string name="ach_arsenal">Full arsenal</string><string name="ach_arsenal_desc">Unlock prism, orbit, and rail weapons.</string>
+    <string name="settings_intro">Make the arena feel right for you.</string>
+    <string name="sound">Sound</string><string name="vibration">Vibration</string><string name="language">Language</string><string name="back">Back</string>
+</resources>
