@@ -82,3 +82,30 @@ Neon Survivor — офлайн-игра для Android на Kotlin. Веди п�
 Загрузи проект в репозиторий GitHub. В Android Studio выбери **Build → Generate Signed App Bundle / APK** и подпиши релиз собственным ключом. Храни его надёжно: он понадобится для следующих обновлений. Создай тег, например `v1.1.0`, затем GitHub Release с заметками о версии и прикрепи подписанный APK. Укажи поддержку Android 8.0+.
 
 ZIP содержит исходники и Gradle wrapper. Временные файлы сборки и debug APK исключены из архива.
+
+
+---
+
+## Gameplay video and screenshots
+
+The recording shows the animated main menu and the game modes available before starting a run.
+
+![Animated preview of the Neon Survivor main menu](./Screen_recording.gif)
+
+The main menu screenshot shows the selected Survival mode, personal high score, and entry points to gameplay, statistics, achievements, and settings.
+
+![Neon Survivor main menu](./first.png)
+
+The following screens document the app’s settings and saved run records:
+
+| Screen | What it shows |
+| --- | --- |
+| `Screenshot_20260928_104740.png` | Statistics: completed runs, defeated enemies and bosses, time survived, and best results by mode. |
+| `Screenshot_20260928_104748.png` | Achievements: unlocked and upcoming milestones, including enemy, boss, survival-time, level, and weapon goals. |
+| `Screenshot_20260928_104755.png` | Settings: sound and vibration toggles, language selection, and navigation back to the game. |
+
+![Statistics screen](./Screenshot_20260928_104740.png)
+
+![Achievements screen](./Screenshot_20260928_104748.png)
+
+![Settings screen](./Screenshot_20260928_104755.png)
