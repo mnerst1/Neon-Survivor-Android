@@ -90,11 +90,11 @@ ZIP содержит исходники и Gradle wrapper. Временные ф
 
 The recording shows the animated main menu and the game modes available before starting a run.
 
-![Animated preview of the Neon Survivor main menu](./Screen_recording.gif)
+<a href="./Screen_recording.gif"><img src="./Screen_recording.gif" alt="Animated preview of the Neon Survivor main menu" width="360" /></a>
 
 The main menu screenshot shows the selected Survival mode, personal high score, and entry points to gameplay, statistics, achievements, and settings.
 
-![Neon Survivor main menu](./first.png)
+<a href="./first.png"><img src="./first.png" alt="Neon Survivor main menu" width="300" /></a>
 
 The following screens document the app’s settings and saved run records:
 
@@ -104,8 +104,8 @@ The following screens document the app’s settings and saved run records:
 | `Screenshot_20260928_104748.png` | Achievements: unlocked and upcoming milestones, including enemy, boss, survival-time, level, and weapon goals. |
 | `Screenshot_20260928_104755.png` | Settings: sound and vibration toggles, language selection, and navigation back to the game. |
 
-![Statistics screen](./Screenshot_20260928_104740.png)
+<a href="./Screenshot_20260928_104740.png"><img src="./Screenshot_20260928_104740.png" alt="Statistics screen" width="300" /></a>
 
-![Achievements screen](./Screenshot_20260928_104748.png)
+<a href="./Screenshot_20260928_104748.png"><img src="./Screenshot_20260928_104748.png" alt="Achievements screen" width="300" /></a>
 
-![Settings screen](./Screenshot_20260928_104755.png)
+<a href="./Screenshot_20260928_104755.png"><img src="./Screenshot_20260928_104755.png" alt="Settings screen" width="300" /></a>
